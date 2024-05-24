@@ -1,1 +1,1 @@
-# Landing-Page
+The project aims to create an engaging and interactive website focused on bikes. It utilizes HTML for structuring the content and CSS for styling, with an emphasis on animation and modern design principles.
